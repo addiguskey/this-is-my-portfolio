@@ -2,14 +2,15 @@
 :root {
     --primary: #747c39;
     --blue: #1e5cd7;
-    --dark: #2d62a2;
+    --dark: #436c9e;
     --black: #020100;
-    --gray: #3a3533;
+    --gray: #3d3733;
     --shadow: #7a7875;
     --wht: #f4f0e9;
     --light: #ded9cf;
     --pink: #b88091;
     --orange: #da5c3a;
+    --orange: #e77e61;
     --background: #dfdfdf;
 }
 #root {

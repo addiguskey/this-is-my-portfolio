@@ -13,7 +13,7 @@ https://addig-portfolio.herokuapp.com/
 
 # Table of Contents
 
-- [BuiltWith](#built-with)
+- [Built With](#built-with)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Badges](#badges)

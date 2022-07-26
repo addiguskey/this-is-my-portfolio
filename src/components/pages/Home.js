@@ -15,7 +15,7 @@ const styles = {
     fontFamily: "Italiana",
     fontDisplay: "serif",
     letterSpacing: 5,
-    fontSize: 180,
+    fontSize: 150,
   },
   Intro3: {
     fontFamily: "Montserrat",

@@ -7,9 +7,9 @@ As a new full-stack coding bootcamp grad, this porfolio is built to showcase my 
  
 # live link
 
-```
+
 https://addig-portfolio.herokuapp.com/
-```
+
 
 # Table of Contents
 

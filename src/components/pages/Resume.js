@@ -10,7 +10,7 @@ const styles = {
     marginTop: 40,
   },
   body: {
-    marginLeft: 90,
+    marginLeft: 70,
   },
   btn: {
     color: "#2d62a2",
@@ -30,7 +30,7 @@ export default function Resume() {
       </div>
       <div id="resume-body">
         <div
-          className="hstack gap-3 mx-5 p-5 align-items-center"
+          className="hstack gap-3 mx-4 p-5 align-items-center"
           style={{ marginRight: "5rem" }}
         >
           <h5 style={{ fontWeight: "bold" }}>Education</h5>
@@ -52,7 +52,7 @@ export default function Resume() {
         </div>
 
         <div
-          className="hstack gap-3 mx-5 p-5 align-items-center"
+          className="hstack gap-3 mx-4 p-5 align-items-center"
           style={styles.body}
         >
           <h5 style={{ fontWeight: "bold", marginRight: "3rem" }}>Skills</h5>
@@ -62,12 +62,11 @@ export default function Resume() {
           <div>
             {/* <h6 style={{ fontWeight: "bold" }}>Job Title</h6> */}
             <p>
-              <br></br>∙ Html5 / CSS3 / Bootstrap <br></br>∙ JavaScript ES6/
-              jQuery
-              <br></br>∙ Express.js/MySQL/ MongoDB
-              <br></br>∙ RESTful API/ Third-party APIs/ GraphQL API
-              <br></br>∙ React.js<br></br>∙ Git/ GitHub / npm <br></br>∙
-              Node.js/ Object-Oriented Programming (OOP)
+              <br></br>∙ React.js<br></br>∙ JavaScript/ jQuery<br></br>∙ RESTful
+              API/ Third-party APIs/ GraphQL API<br></br>∙ Node.js/
+              Object-Oriented Programming (OOP)<br></br>∙ Express.js/MySQL/
+              MongoDB<br></br>∙ Html5 / CSS3 / Bootstrap
+              <br></br>∙ Git/ GitHub / npm
             </p>
           </div>
         </div>

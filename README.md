@@ -4,12 +4,12 @@
 
 Welcome to my portfolio! <br/>
 As a new full-stack coding bootcamp grad, this porfolio is built to showcase my skills with building single-page applications, previous projects, and a little about me.
-
+ 
 # live link
 
-```
+
 https://addig-portfolio.herokuapp.com/
-```
+
 
 # Table of Contents
 
